@@ -1,0 +1,13 @@
+{
+  "routes": [
+    "/expense-tracker",
+    "/expense-tracker/dashboard",
+    "/expense-tracker/expense",
+    "/expense-tracker/history",
+    "/expense-tracker/income",
+    "/expense-tracker/login",
+    "/expense-tracker/profile",
+    "/expense-tracker/side-nav",
+    "/expense-tracker/todo"
+  ]
+}
